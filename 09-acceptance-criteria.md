@@ -1,4 +1,4 @@
-# 09. Acceptance Criteria
+# Acceptance Criteria
 
 Given/When/Then acceptance criteria for each user story in
 `08_use_cases_and_user_stories.md`.
