@@ -1,4 +1,4 @@
-# 01. Project Brief
+# Project Brief
 
 ## Project Title
 Customer Churn Analysis & Retention Strategy: ABB vs m10
