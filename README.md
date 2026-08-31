@@ -42,7 +42,7 @@ This project was created to demonstrate how a Business Analyst can combine **bus
 
 | No. | Document                                                                                                                  | What It Demonstrates                                                                                            |
 | --- | ------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
-|  1  | [Project Brief](01. Project Brief)                     | Business context, problem statement, project objectives and scope                                               |
+|  1  | [Project Brief](01-project-brief.md)                     | Business context, problem statement, project objectives and scope                                               |
 |  2  | [Stakeholder Analysis](https://kamalrustamliaze1-jpg.github.io/carefour-ba-simulation/02-stakeholder-analysis.html)       | Stakeholder register, stakeholder mapping, power/interest analysis and RACI matrix                              |
 |  3  | [Data & Dashboard](https://kamalrustamliaze1-jpg.github.io/carefour-ba-simulation/03-data-dashboard.html)                 | Synthetic customer data analysis, churn patterns, fintech adoption trends, KPI framework and dashboard findings |
 |  4  | [As-Is Process & BPMN](https://kamalrustamliaze1-jpg.github.io/carefour-ba-simulation/04-as-is-process.html)              | Current-state customer journey and process mapping, fintech adoption touchpoints and pain-point analysis        |
