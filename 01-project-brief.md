@@ -74,7 +74,6 @@ This project follows a full-cycle Business Analysis document suite:
 8. Use Cases & User Stories
 9. Acceptance Criteria
 10. KPI & Evaluation
-11. Final BA Report
 
 ## Assumptions
 
