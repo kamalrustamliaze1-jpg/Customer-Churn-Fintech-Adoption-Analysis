@@ -1,4 +1,4 @@
-## 03 — Data & Dashboard
+## Data & Dashboard
 
 ### Data & Dashboard Analysis
 
