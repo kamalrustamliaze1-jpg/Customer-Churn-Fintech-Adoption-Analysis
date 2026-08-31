@@ -1,4 +1,4 @@
-# 07. To-Be Process & Solution
+# To-Be Process & Solution
 
 ## Target-State Vision
 
