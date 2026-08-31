@@ -1,0 +1,101 @@
+# 1. Project Brief
+
+## Project Title
+Customer Churn Analysis & Retention Strategy: ABB vs m10
+
+## Business Context
+
+ABB is one of Azerbaijan's largest traditional banks, built on a
+branch-and-card banking model. Over the past several years, wallet-based
+fintech platforms — most notably **m10** — have captured a growing share of
+everyday payments, P2P transfers, and micro-financial activity, particularly
+among younger, digitally-native customers.
+
+ABB's leadership has observed early signs of customer disengagement: fewer
+branch visits are being replaced by proportional digital activity, some
+customers appear to be splitting their financial activity between ABB and
+fintech wallets, and churn (dormancy or account closure) is becoming harder
+to predict using traditional lagging indicators (e.g., account closure
+events) alone.
+
+## Problem Statement
+
+> ABB currently reacts to customer attrition after it has already happened
+> (closed accounts, formal complaints) rather than identifying at-risk
+> customers early. There is no structured, data-driven process to detect
+> declining engagement, quantify churn risk, or trigger retention action
+> before a customer leaves — a capability that fintech competitors like
+> m10 can approximate faster due to their fully digital, high-frequency
+> engagement model.
+
+## Business Objectives
+
+1. Identify the behavioral, digital-engagement, and experience factors most
+   associated with customer churn at ABB.
+2. Quantify how ABB's churn profile compares to a fintech benchmark (m10).
+3. Design a repeatable process and set of BA deliverables (requirements,
+   dashboard, KPIs) that operationalize early churn detection.
+4. Recommend concrete, measurable retention strategies tied to the
+   identified drivers.
+
+## Scope
+
+### In Scope
+- Analysis of customer behavior, digital engagement, and experience data
+  for ABB, benchmarked against m10 as a fintech comparator.
+- Stakeholder analysis, current-state (As-Is) process mapping for churn
+  detection/handling, and a target-state (To-Be) proposal.
+- Functional and non-functional requirements for a churn early-warning
+  capability.
+- A KPI framework and reporting dashboard concept.
+- Use cases, user stories, and acceptance criteria for the retention
+  workflow.
+
+### Out of Scope
+- Actual implementation/deployment of any system, model, or dashboard in
+  ABB's production environment.
+- Access to or use of real ABB or m10 customer data (this project uses a
+  synthetic dataset — see `data/customers_synthetic.csv`).
+- Legal, regulatory, or data-privacy compliance review (flagged as a
+  dependency for any real-world implementation, not addressed here).
+- Financial/ROI modeling of specific retention offers.
+
+## Deliverables
+
+This project follows a full-cycle Business Analysis document suite:
+
+1. Project Brief *(this document)*
+2. Stakeholder Analysis
+3. Data & Dashboard
+4. As-Is Process & BPMN
+5. Requirements (FR/NFR)
+6. Business Rules
+7. To-Be Process & Solution
+8. Use Cases & User Stories
+9. Acceptance Criteria
+10. KPI & Evaluation
+11. Final BA Report
+
+## Assumptions
+
+- ABB is used as an illustrative traditional-bank case study; m10 is used
+  as an illustrative fintech comparator. Neither company commissioned or
+  reviewed this project.
+- All customer data is synthetic and generated for demonstration purposes
+  (see `notebooks/generate_data.py`).
+
+## Constraints
+
+- No access to real transactional or CRM data.
+- Single-analyst project (no dedicated development, data engineering, or
+  legal review team).
+
+## High-Level Timeline (Illustrative)
+
+| Phase | Deliverables |
+|---|---|
+| 1. Discovery | Project Brief, Stakeholder Analysis |
+| 2. Analysis | Data & Dashboard, As-Is Process & BPMN |
+| 3. Definition | Requirements, Business Rules |
+| 4. Design | To-Be Process & Solution, Use Cases & User Stories, Acceptance Criteria |
+| 5. Evaluation | KPI & Evaluation, Final BA Report |
