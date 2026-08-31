@@ -1,4 +1,4 @@
-# 04. As-Is Process & BPMN
+# As-Is Process & BPMN
 
 ## Current-State Overview
 
