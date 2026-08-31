@@ -1,4 +1,4 @@
-# 06. Business Rules
+# Business Rules
 
 Formal business rule register governing how churn risk is calculated,
 segmented, and acted upon. Rule IDs are referenced from requirements and
