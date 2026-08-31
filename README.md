@@ -46,13 +46,13 @@ This project was created to demonstrate how a Business Analyst can combine **bus
 |  2  | [Stakeholder Analysis](02-stakeholder-analysis.md)       | Stakeholder register, stakeholder mapping, power/interest analysis and RACI matrix                              |
 |  3  | [Data & Dashboard](03-data-dashboard.md)                 | Synthetic customer data analysis, churn patterns, fintech adoption trends, KPI framework and dashboard findings |
 |  4  | [As-Is Process & BPMN](04-as-is-process.md)              | Current-state customer journey and process mapping, fintech adoption touchpoints and pain-point analysis        |
-|  5  | [Requirements](https://kamalrustamliaze1-jpg.github.io/carefour-ba-simulation/05-requirements.html)                       | Functional and non-functional requirements for the proposed customer retention and digital engagement solution  |
-|  6  | [Business Rules](https://kamalrustamliaze1-jpg.github.io/carefour-ba-simulation/06-business-rules.html)                   | Formal business rule register and decision logic supporting the solution                                        |
-|  7  | [To-Be Process & Solution](https://kamalrustamliaze1-jpg.github.io/carefour-ba-simulation/07-to-be-process.html)          | Target-state customer experience, proposed solution design and As-Is vs To-Be comparison                        |
-|  8  | [Use Cases & User Stories](https://kamalrustamliaze1-jpg.github.io/carefour-ba-simulation/08-use-cases-user-stories.html) | Use case catalogue and user stories representing customer and business stakeholder needs                        |
-|  9  | [Acceptance Criteria](https://kamalrustamliaze1-jpg.github.io/carefour-ba-simulation/09-acceptance-criteria.html)         | Given/When/Then acceptance criteria used to validate proposed requirements                                      |
-| 10  | [KPI & Evaluation](https://kamalrustamliaze1-jpg.github.io/carefour-ba-simulation/10-kpi-evaluation.html)                 | Customer retention, churn, digital adoption and project success KPI framework                                   |
-| 11  | [Final BA Report](https://kamalrustamliaze1-jpg.github.io/carefour-ba-simulation/11-final-report.html)                    | Executive summary, key findings, recommendations and expected business impact                                   |
+|  5  | [Requirements](05-requirements.md)                       | Functional and non-functional requirements for the proposed customer retention and digital engagement solution  |
+|  6  | [Business Rules](06-business-rules.md)                   | Formal business rule register and decision logic supporting the solution                                        |
+|  7  | [To-Be Process & Solution](07-to-be-process.md)          | Target-state customer experience, proposed solution design and As-Is vs To-Be comparison                        |
+|  8  | [Use Cases & User Stories](08-use-cases-user-stories.md) | Use case catalogue and user stories representing customer and business stakeholder needs                        |
+|  9  | [Acceptance Criteria](09-acceptance-criteria.md)         | Given/When/Then acceptance criteria used to validate proposed requirements                                      |
+| 10  | [KPI & Evaluation](10-kpi-evaluation.md)                 | Customer retention, churn, digital adoption and project success KPI framework                                   |
+| 11  | [Final BA Report](11-final-report.md)                    | Executive summary, key findings, recommendations and expected business impact                                   |
 
 ---
 
