@@ -1,4 +1,4 @@
-# 08. Use Cases & User Stories
+# Use Cases & User Stories
 
 ## Personas
 
