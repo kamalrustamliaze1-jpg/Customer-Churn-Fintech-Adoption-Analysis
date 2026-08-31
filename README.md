@@ -52,8 +52,7 @@ This project was created to demonstrate how a Business Analyst can combine **bus
 |  8  | [Use Cases & User Stories](08-use-cases-user-stories.md) | Use case catalogue and user stories representing customer and business stakeholder needs                        |
 |  9  | [Acceptance Criteria](09-acceptance-criteria.md)         | Given/When/Then acceptance criteria used to validate proposed requirements                                      |
 | 10  | [KPI & Evaluation](10-kpi-evaluation.md)                 | Customer retention, churn, digital adoption and project success KPI framework                                   |
-| 11  | [Final BA Report](11-final-report.md)                    | Executive summary, key findings, recommendations and expected business impact                                   |
-
+                                  
 ---
 
 ## Key Findings
