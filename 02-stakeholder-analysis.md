@@ -1,4 +1,4 @@
-# 02. Stakeholder Analysis
+# Stakeholder Analysis
 
 ## Stakeholder Register
 
