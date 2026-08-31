@@ -8,7 +8,7 @@
 
 ## Project Sites
 
-* 📊 **MS Excel Analysis:** [View File]([Customer-Churn-Fintech-Adoption-Analysis.xlsx](https://github.com/user-attachments/files/31648145/Customer-Churn-Fintech-Adoption-Analysis.xlsx)
+* 📊 **MS Excel Analysis:** [View File]([Customer-Churn-Fintech-Adoption-Analysis.xlsx])
 )
 * 🏦 **ABB – General Statistics & Banking Profile:** [View Website](https://abb-general-stats.netlify.app)
 * 📱 **m10 – Digital Wallet Profile:** [View Website](https://m10-digital-wallet.netlify.app)
